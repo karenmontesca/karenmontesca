@@ -41,7 +41,6 @@ Some of the topics you'll find here:
 * 🛠️ Troubleshooting and technical procedures
 * 📡 Telemetry and application monitoring
 
----
 
 ## ⭐ Featured Projects
 
