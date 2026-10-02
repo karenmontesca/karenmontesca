@@ -6,7 +6,7 @@ I'm an IT Solutions Specialist focused on **observability, application monitorin
 
 I work with **IBM Instana, Kubernetes/K3s, Linux, monitoring technologies, and automation**, and I use GitHub to document hands-on labs, technical experiments, troubleshooting procedures, and solutions I've built or tested.
 
----
+
 
 ## 🔧 What I work with
 
