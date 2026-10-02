@@ -54,7 +54,6 @@ Includes control-plane/worker setup, static networking, firewall considerations,
 
 A Python-based integration that retrieves custom metrics from the Zabbix API, exposes them in Prometheus format, and makes them available for collection by Instana.
 
----
 
 ## 📚 Currently Learning & Exploring
 
@@ -70,7 +69,6 @@ I'm continuously learning, and will be uploading more repos on the following, so
 * Kubernetes observability
 * Infrastructure automation
 
----
 
 ## 📫 Connect with me
 
